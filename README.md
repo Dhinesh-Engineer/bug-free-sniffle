@@ -1,6 +1,9 @@
 # bug-free-sniffle
 Malicious URL Detection using Machine Learning
 
+
+Phishing is a type of cyber attack in which an attacker creates a fake website or email that looks like it comes from a legitimate source, such as a bank or social media site, in an attempt to steal sensitive information like login credentials, credit card numbers, or other personal information. The goal of a phishing attack is to trick the victim into providing this information, which can then be used for fraudulent purposes.
+
 # **What is URL?**
 The Uniform Resource Locator (URL) is the well-defined structured format unique address for accessing websites over World Wide Web (WWW).
 
